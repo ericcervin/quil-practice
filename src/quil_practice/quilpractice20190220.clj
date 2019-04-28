@@ -62,7 +62,7 @@
                      (->Bit [:skull :s2lb] 0 45 150 150 100)]}
              {:x 500
               :y 0
-              :bt 38
+              :bt 40
               :bits [
                      (->Bit [:skull :s2rt] 0 0  0   200 200)
                      (->Bit [:skull :s2rb] 0 25 150 150 100)]}]})

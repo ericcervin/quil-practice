@@ -1,2 +1,3 @@
 letters/cp6 Craphound 6
 skulls Craphound 6
+img-a.jpg https://github.com/dantheobserver/drawing-experiments/blob/master/resources/img-a.jpg

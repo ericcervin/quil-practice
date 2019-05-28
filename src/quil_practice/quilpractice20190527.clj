@@ -28,9 +28,9 @@
         (apply q/fill (pxl-rgb (+ (q/frame-count) i) pxls))
         (q/rect xy xy hw hw))))  
   
-  (if (< (q/frame-count) 720) 
-      (do (println (q/frame-count))
-          (q/save-frame "/target/output-####.png"))))    
+  #_(if (< (q/frame-count) 720) 
+     (do (println (q/frame-count))
+       (q/save-frame "/target/output-####.png"))))    
 
 (q/defsketch nested-pxl-squares
   :size [500 500]
